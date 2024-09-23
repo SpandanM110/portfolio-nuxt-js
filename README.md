@@ -1,4 +1,10 @@
-# portfolio - Nuxt JS
+# portfolio - Nuxt JS, Tailwind and Firebase (Firestore)
+
+![image](https://github.com/user-attachments/assets/2df5b285-e0f3-4fb7-83de-b4b8f23da14e)
+
+
+![image](https://github.com/user-attachments/assets/42937b00-dbe3-4bbc-95c6-c5b87691b15a)
+
 
 ## Build Setup
 
